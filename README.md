@@ -19,4 +19,4 @@ Website with just Html and Css.
 - Html: For bulding the pages.
 
 ## Screenshot 
-![screenshot](src/Assets/swiper.png)
+![screenshot](images/amazing.png)
